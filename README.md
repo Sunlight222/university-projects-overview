@@ -8,10 +8,10 @@ Computer engineering student at the Technion (7th semester). This repository is 
 
 | Project | Course | Semester | Type | Language | My part |
 |---|---|---|---|---|---|
-| [MatamStory: text-based RPG simulation](mtmHw4/README.md) | Introduction to Systems Programming (234124) | Winter 2024-2025 | Pair | C++ | Event class hierarchy (encounters, monsters, special events), first versions of `Pack` and `EventFactory`, events-file reading |
-| [Matrix and Movie classes](W26_mtm_hw2/README.md) | Introduction to Systems Programming (234124) | Winter 2025-2026 | Pair | C++ | `Matrix` class with operator overloading, rotation, transpose, determinant; the `Pirate` class (dry part) |
-| [Task Manager](W26_matam_assignment3/README.md) | Introduction to Systems Programming (234124) | Winter 2025-2026 | Pair | C++ | `TaskManager` (assign, complete, bump priority, print) |
-| [Bracket matching and run-length encoding](COAP-Hw1/README.md) | Computer Organization and Programming (234118) | Spring 2025-2026 | Individual | x86-64 assembly | Both programs |
+| [MatamStory: text-based RPG simulation](MatamStory/README.md) | Introduction to Systems Programming (234124) | Winter 2024-2025 | Pair | C++ | Event class hierarchy (encounters, monsters, special events), first versions of `Pack` and `EventFactory`, events-file reading |
+| [Matrix and Movie classes](Matrix-and-Movie-Classes/README.md) | Introduction to Systems Programming (234124) | Winter 2025-2026 | Pair | C++ | `Matrix` class with operator overloading, rotation, transpose, determinant; the `Pirate` class (dry part) |
+| [Task Manager](Task-Manager/README.md) | Introduction to Systems Programming (234124) | Winter 2025-2026 | Pair | C++ | `TaskManager` (assign, complete, bump priority, print) |
+| [Bracket matching and run-length encoding](Bracket-Matching-and-RLE-Assembly/README.md) | Computer Organization and Programming (234118) | Spring 2025-2026 | Individual | x86-64 assembly | Both programs |
 
 ## Skills shown across these projects
 
